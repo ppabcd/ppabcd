@@ -1,7 +1,7 @@
 ### Hello World
 My name is Reza Juliandri. I am from Indonesia. A lot of my project created with PHP programming and Laravel Framework. Sometime, I use Vue.js for front-end framework.
 - 🌱 I’m currently learning Machine Learning, Nuxtjs, Typescript and Lua
-- 📫 You can reach me by reza[at]rezajuliandri.id or [LinkedIn](https://www.linkedin.com/in/rezajuliandri/)
+- 📫 You can reach me by reza[at]rezajuliandri.my.id or [LinkedIn](https://www.linkedin.com/in/rezajuliandri/)
 
 
 <!--
