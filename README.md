@@ -3,14 +3,14 @@ Laravel and Lumen is framework i used often.
 - 🌱 Currently learning Machine Learning, Nuxtjs, Typescript and Lua.
 
 <details>
-  <summary>Reza's Stats</summary>
+  <summary>Stats</summary>
   <detail>
     <img src='https://github-readme-stats.vercel.app/api?username=ppabcd&show_icons=true&theme=radical&theme=graywhite'/>
   </detail>
 </details>
 
 <details>
-  <summary>Reza's Project</summary>
+  <summary>Personal Project</summary>
   <detail>
     <ol>
       <li><a href="https://t.me/kylachatbot" target="_blank">Kyla Chat: Telegram bot for finding a friend based on interest</a></li>
@@ -22,7 +22,7 @@ Laravel and Lumen is framework i used often.
 </details>
 
 <details>
-  <summary>Reza's Contact</summary>
+  <summary>Contact</summary>
   <detail>
     <ul>
       <li><a href="mailto:github@rezajuliandri.my.id" rel="noindex, nofollow" target="_blank">Email</a></li>
