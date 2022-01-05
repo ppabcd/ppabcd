@@ -1,7 +1,6 @@
 ## I am Reza Juliandri ![](https://komarev.com/ghpvc/?username=ppabcd&color=FF5900)
 Laravel and Lumen is framework i used often.
 - 🌱 Currently learning Machine Learning, Nuxtjs, Typescript and Lua.
-- 📫 You can reach me by reza[at]rezajuliandri.my.id or [LinkedIn](https://www.linkedin.com/in/rezajuliandri/)
 
 <details>
   <summary>Reza's Stats</summary>
