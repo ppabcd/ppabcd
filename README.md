@@ -16,7 +16,6 @@ Laravel and Lumen is framework i used often.
       <li><a href="https://t.me/kylachatbot" target="_blank">Kyla Chat: Telegram bot for finding a friend based on interest</a></li>
       <li><a href="https://amegu.netlify.app" target="_blank">Amegu: Web and Android Application for pet adoption</a></li>
       <li><a href="https://meduru.net/portfolio/2020-07-25-politeknik-penerbangan-manajemen-pelatihan-bahasa-inggris" target="_blank">Politeknik Penerbangan - Manajemen Pelatihan Bahasa Inggris</a></li>
-      <li>
     </ol>
   </detail>
 </details>
