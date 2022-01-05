@@ -1,7 +1,39 @@
-### Hello World
-My name is Reza Juliandri. I am from Indonesia. A lot of my project created with PHP programming and Laravel Framework. Sometime, I use Vue.js for front-end framework.
-- 🌱 I’m currently learning Machine Learning, Nuxtjs, Typescript and Lua
+## I am Reza Juliandri ![](https://komarev.com/ghpvc/?username=ppabcd&color=FF5900)
+Laravel and Lumen is framework i used often.
+- 🌱 Currently learning Machine Learning, Nuxtjs, Typescript and Lua.
 - 📫 You can reach me by reza[at]rezajuliandri.my.id or [LinkedIn](https://www.linkedin.com/in/rezajuliandri/)
+
+<details>
+  <summary>Reza's Stats</summary>
+  <detail>
+    <img src='https://github-readme-stats.vercel.app/api?username=ppabcd&show_icons=true&theme=radical&theme=graywhite'/>
+  </detail>
+</details>
+
+<details>
+  <summary>Reza's Project</summary>
+  <detail>
+    <ol>
+      <li><a href="https://t.me/kylachatbot" target="_blank">Kyla Chat: Telegram bot for finding a friend based on interest</a></li>
+      <li><a href="https://amegu.netlify.app" target="_blank">Amegu: Web and Android Application for pet adoption</a></li>
+      <li><a href="https://meduru.net/portfolio/2020-07-25-politeknik-penerbangan-manajemen-pelatihan-bahasa-inggris" target="_blank">Politeknik Penerbangan - Manajemen Pelatihan Bahasa Inggris</a></li>
+      <li>
+    </ol>
+  </detail>
+</details>
+
+<details>
+  <summary>Reza's Contact</summary>
+  <detail>
+    <ul>
+      <li><a href="mailto:github@rezajuliandri.my.id" rel="noindex, nofollow" target="_blank">Email</a></li>
+      <li><a href="https://t.me/ppabcd" target="_blank">Telegram</a></li>
+      <li><a href="https://www.linkedin.com/in/rezajuliandri/" target="_blank">LinkedIn</a></li>
+    </ul>
+  </detail>
+</details>
+
+
 
 
 <!--
