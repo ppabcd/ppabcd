@@ -23,8 +23,8 @@
 I am a Backend Developer from Indonesia.
 - 🌱 Learning Machine Learning, Nuxtjs, Typescript and Lua.
 - 💻 I'm working as a Software Engineer as a backend developer.
-- 🥇 In my free time, I participate in competitions.
-- ⚖️ Invest in cryptocurrency and stocks market.
+- 🥇 In my free time, I participate in some competitions.
+- ⚖️ Investing in cryptocurrency and stock market.
 
 ---
 
