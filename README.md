@@ -8,7 +8,7 @@
   <a href="https://www.twitter.com/tftnopas">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.t.me/tftnopas">
+  <a href="https://www.t.me/ppabcd">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
