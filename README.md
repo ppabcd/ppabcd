@@ -20,11 +20,12 @@
 
 
 ## 👨‍💻: About Me:
-I am a Backend Developer from Indonesia.
+I am a Backend Engineer from Indonesia.
 - 🌱 Learning Machine Learning, Nuxtjs, Typescript and Lua.
 - 💻 I'm working as a Software Engineer as a backend developer.
-- 🥇 In my free time, I participate in some competitions.
+- 🥇 In my free time, I participate in Web Design and UI/UX competition.
 - ⚖️ Investing in cryptocurrency and stock market.
+- ⚡ Fun fact: I like create Telegram bot ._.
 
 ---
 
