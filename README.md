@@ -47,11 +47,11 @@ I am a Backend Engineer from Indonesia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJS" alt="NuxtJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/>&nbsp;
@@ -76,9 +76,7 @@ I am a Backend Engineer from Indonesia.
 
 ### Personal Project: 
 <ol>
-  <li><a href="https://t.me/kylachatbot" target="_blank">Kyla Chat: Telegram bot for finding a friend based on interest</a></li>
   <li><a href="https://amegu.netlify.app" target="_blank">Amegu: Web and Android Application for pet adoption</a></li>
-  <li><a href="https://meduru.net/portfolio/2020-07-25-politeknik-penerbangan-manajemen-pelatihan-bahasa-inggris" target="_blank">Politeknik Penerbangan - Manajemen Pelatihan Bahasa Inggris</a></li>
 </ol>
 
 
